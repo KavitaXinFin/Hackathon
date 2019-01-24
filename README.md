@@ -16,7 +16,7 @@ To innovate and replace existing non-efficient closed systems with more transpar
 
 Below we have listed the problem statements which are open to all. In order to participate, create a proposal in the format specified & make a pull request.
 
-Prizes upto $10000 USD worth of XDC will be given if your solution is expected.
+Prizes upto $10000 USD worth of XDC will be given if your solution is accepted.
 
 ### Change Proof of Work (PoW) Consensus in blockchain
 
